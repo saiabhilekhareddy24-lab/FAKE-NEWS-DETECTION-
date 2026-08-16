@@ -1,0 +1,19 @@
+{
+  "name": "fake-news-detector",
+  "version": "1.0.0",
+  "description": "Fake News Detection using Naive Bayes and JavaScript",
+  "main": "fakeNewsDetector.js",
+  "scripts": {
+    "start": "node fakeNewsDetector.js",
+    "test": "node testbench.js"
+  },
+  "keywords": [
+    "fake-news",
+    "machine-learning",
+    "javascript",
+    "nodejs",
+    "naive-bayes",
+    "nlp"
+  ],
+  "license": "MIT"
+}
