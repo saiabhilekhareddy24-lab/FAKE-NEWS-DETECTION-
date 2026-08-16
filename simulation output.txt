@@ -1,0 +1,49 @@
+node testbench.js
+========================================
+      FAKE NEWS DETECTION TESTBENCH
+========================================
+
+Test 1
+Input     : Government announces a new education program
+Expected  : REAL
+Predicted : REAL
+Status    : PASS
+----------------------------------------
+
+Test 2
+Input     : Scientists publish a climate research study
+Expected  : REAL
+Predicted : REAL
+Status    : PASS
+----------------------------------------
+
+Test 3
+Input     : Magic drink makes humans live forever
+Expected  : FAKE
+Predicted : FAKE
+Status    : PASS
+----------------------------------------
+
+Test 4
+Input     : Secret machine makes everyone rich overnight
+Expected  : FAKE
+Predicted : FAKE
+Status    : PASS
+----------------------------------------
+
+Test 5
+Input     : Health department announces vaccination program
+Expected  : REAL
+Predicted : REAL
+Status    : PASS
+----------------------------------------
+
+Test 6
+Input     : Aliens secretly control the government
+Expected  : FAKE
+Predicted : FAKE
+Status    : PASS
+----------------------------------------
+
+Test Accuracy: 100.00%
+========================================
